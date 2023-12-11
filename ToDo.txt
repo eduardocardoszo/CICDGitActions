@@ -1,0 +1,10 @@
+### Para Alto ###
+1 - Entender se a app esta dockeirizada
+2 - Como irão expor o front para comsumo
+3 - Já tem certificado? Domínio?
+4 - Como serão ambientes? todos na mesma conta? (Por nós tudo na mesma conta, separa recursos e taggeia)
+
+### Para nós ###
+1 - Custo Github Actions para CICD - 5 esteiras, deploy em AWS
+2 - Diferencas MongoDB Atlas, MongoDB EC2, DynamoDB
+3 - 
